@@ -18,6 +18,3 @@ Các bước đầu tiên khi mới tạo file
     git push -u origin main
 // hoàn tất ----------------------------------------------------------
 
-git remote add origin https://github.com/truonghuynhcan/github_demo.git
-git branch -M main
-git push -u origin main
